@@ -18,7 +18,7 @@ To contribute to this repository, follow these steps:
 
 1. Fork this repository (button on top)
 2. Clone the repository to your local machine: `git clone https://github.com/saikiran76/Promises.git `
-3. Navigate to the project directory: `cd Hacktoberfest2023`
+3. Navigate to the project directory: `cd <folder-name>`
 4. Create a new branch: `git checkout -b my-new-branch`
 5. Make your changes and commit them: `git add .` and `git commit -m "Relevant message"`
 6. Push your changes to your forked repository: `git push origin my-new-branch`
