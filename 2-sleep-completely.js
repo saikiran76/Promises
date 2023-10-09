@@ -4,5 +4,18 @@
  */
 
 function sleep (seconds) {
+    setTimeout(seconds, print);
+    
 
 }
+
+function print(){
+    console.log('I will wait for some time to be called');
+}
+
+for(var i = 0; i<100000; i++){
+    console.log('running... call stack is busy');
+}
+
+console.log(sleep(5000));
+

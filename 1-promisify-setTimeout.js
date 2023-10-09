@@ -10,6 +10,6 @@ function wait(n) {
    
 }
 
-wait(n).then(function(){
+wait().then(function(){
     console.log('I will resolve it after print is over');
 })
