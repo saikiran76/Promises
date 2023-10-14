@@ -38,6 +38,6 @@ For more information on syncing forks, you can read this article from GitHub: [S
 
 ### Swags of Hacktoberfest
 
-Many participants are attracted to Hacktoberfest for the chance to receive swag. After 4 successfully merged pull requests, you will be eligible to receive a Hacktoberfest T-shirt and some stickers delivered to your doorstep.
+Many participants are attracted to Hacktoberfest for the chance to receive swag. After 4 successfully merged pull requests, you will be eligible to receive a Hacktoberfest T-shirt and some stickers delivered to your doorstep. But this year there's a slight change as it's the 10th anniversary. Unfortunately shirt will not be provided this year but the environment will be obliged. 🌳🌳😉🌳🌳
 
 Thank you for your contributions and happy hacking!
